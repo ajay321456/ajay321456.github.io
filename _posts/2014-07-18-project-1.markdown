@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: -
-img: P1-handwritten.jpg
+img: cabin.png
 alt: Handwritten Digit Recognition
 project-date: -
 client: -
