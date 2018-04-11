@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: Handwritten Digit Recognition
+modal-id: 1
 img: P1-handwritten.png 
 alt: Handwritten Digit Recognition
 category: Deep Learning
