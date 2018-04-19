@@ -4,6 +4,6 @@ modal-id: 3
 img: P3-Image_Caption.png  
 alt: Image Caption Generation 
 Technologies:  Python, CNN, LSTM, InceptionV3 model
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: Extracted features of images using pretrained InceptionV3 model, used CNN, LSTM (Long Short-Term Memory) and beam search to generate automatic descriptions for images. Model is trained on Flickr8K data set.
 
 ---
